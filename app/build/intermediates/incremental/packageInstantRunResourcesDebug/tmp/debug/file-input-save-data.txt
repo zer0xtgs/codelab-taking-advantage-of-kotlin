@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Aug 16 19:45:36 EEST 2018
+0.baseType=DIRECTORY
+0.base=/Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/build/intermediates/assets/debug
+0.path=mock_contacts.json
+0.set=ASSET
+count=1

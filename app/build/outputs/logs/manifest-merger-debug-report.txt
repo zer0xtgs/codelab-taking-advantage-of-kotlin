@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:design:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9d837392ad62bc1194616adda92f6717/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aa56ff928d1588bd13300a980901112e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc2b35e96688530c83845ce43a9464dc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cd13eb51d640c2f74115b7e2d4c59335/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/23a2dc2ead0b10a6bbdb9c51a276ba94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c16b11a6235384d092eb649bbfb21279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2de3aa7bba18f1ffb657c4611280981a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/890dd8966b602021547f043aecbce024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab6e5d272b931360cfbb7b027ce5c7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee2e33cf3464cf219079202ef6c65f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c62629d84936cc1c1515be350be32b25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7053a6aa9208e0d09311e58e651c30fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/033fb4a92b0f35392588df3efe4a3588/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88dd9b6b3f891313994936ec75b06b2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e4b37c9a7a1fc92399a66d855e1d58e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/334e359a8dc73fd15e8cae5a5ed50376/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e3cf0fb81cf0185f4cf84e87642843d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:18:5-48
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc2b35e96688530c83845ce43a9464dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc2b35e96688530c83845ce43a9464dc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.myaddressbook.ContactsActivity
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9d837392ad62bc1194616adda92f6717/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9d837392ad62bc1194616adda92f6717/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aa56ff928d1588bd13300a980901112e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aa56ff928d1588bd13300a980901112e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc2b35e96688530c83845ce43a9464dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc2b35e96688530c83845ce43a9464dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cd13eb51d640c2f74115b7e2d4c59335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cd13eb51d640c2f74115b7e2d4c59335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/23a2dc2ead0b10a6bbdb9c51a276ba94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/23a2dc2ead0b10a6bbdb9c51a276ba94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c16b11a6235384d092eb649bbfb21279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c16b11a6235384d092eb649bbfb21279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2de3aa7bba18f1ffb657c4611280981a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2de3aa7bba18f1ffb657c4611280981a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/890dd8966b602021547f043aecbce024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/890dd8966b602021547f043aecbce024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab6e5d272b931360cfbb7b027ce5c7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab6e5d272b931360cfbb7b027ce5c7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee2e33cf3464cf219079202ef6c65f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee2e33cf3464cf219079202ef6c65f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c62629d84936cc1c1515be350be32b25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c62629d84936cc1c1515be350be32b25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7053a6aa9208e0d09311e58e651c30fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7053a6aa9208e0d09311e58e651c30fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/033fb4a92b0f35392588df3efe4a3588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/033fb4a92b0f35392588df3efe4a3588/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88dd9b6b3f891313994936ec75b06b2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88dd9b6b3f891313994936ec75b06b2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e4b37c9a7a1fc92399a66d855e1d58e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e4b37c9a7a1fc92399a66d855e1d58e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/334e359a8dc73fd15e8cae5a5ed50376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/334e359a8dc73fd15e8cae5a5ed50376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e3cf0fb81cf0185f4cf84e87642843d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Alexander/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e3cf0fb81cf0185f4cf84e87642843d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Alexander/Downloads/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
